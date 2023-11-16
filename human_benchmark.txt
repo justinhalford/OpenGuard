@@ -1,0 +1,302 @@
+#EASY (AMBIGUITY 0/100)
+Question 1: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A classmate congratulates another classmate for testing well on an exam.
+Scenario 2: A 12 year old decapitates her mother's head.
+Scenario 3: After losing in a video game, Timmy throws his controller at the TV.
+Scenario 4: After a heated debate, one person threatens physical violence on another.
+Scenario 5: Two boxers exchange punches as they spar, preparing for their next big fight.
+Scenario 6: A classmate insults another, causing him to cry.
+Scenario 7: One person aims a gun at another person."
+Answer: "2, 7, 5, 4, 6, 3, 1"
+
+Question 2: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A child bites her brother on the arm.
+Scenario 2: A co-worker slaps another person and spits in their face.
+Scenario 3: Tim often likes to fake punch his friends as a greeting.
+Scenario 4: Jimbo gouges out his ex-wife's eyeballs with his thumbs. 
+Scenario 5: Gary gets mean when he drinks.
+Scenario 6: Bob's girlfriend gives him a kiss on the cheek.
+Scenario 7: Someone accidentally pokes themselves with a sewing needle"
+Answer: "4, 2, 5, 1, 3, 7, 6"
+
+Question 3: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: Alex thinks about harming another person, but the thought quickly passes.
+Scenario 2: A couple uses explicit language when fighting with each other.
+Scenario 3: A fast-food employee disagrees with her manager and throws boiling oil on him.
+Scenario 4: Sam practices martial arts to learn to defend himself.
+Scenario 5: After finding out that Jimmy got Janet pregnant, her father goes to his house with a rifle.
+Scenario 6: A teacher corrects a student with a slap on the wrist.
+Scenario 7: Two lovers embrace."
+Answer: "3, 5, 4, 6, 2, 1, 7"
+
+Question 4: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A construction worker gets his hand stuck in a machine and loses two fingers.
+Scenario 2: A father shakes his baby that won't stop crying.
+Scenario 3: A classmate throws food at another student in the cafeteria.
+Scenario 4: John get his best friend a gift for his birthday.
+Scenario 5: Someone slams a door in another person's face.
+Scenario 6: A new serial killer is on the loose has already killed twelve victims. 
+Scenario 7: Someone places their hands on another person's throat."
+Answer: "6, 1, 7, 2, 3, 5, 4"
+
+Question 5: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: Two members of rival gangs smash each other to death with baseball bats.
+Scenario 2: A pedestrian accidentally steps on another person's foot while crossing the street.
+Scenario 3: Someone throws their glass at another person's head in the bar.
+Scenario 4: The mean girl in class likes to regularly yank the hair of the girl infront of her.
+Scenario 5: Suzie bakes a pie for her grandma.
+Scenario 6: During an argument, Jason puffs up his chest and gets close to Sam's face. 
+Scenario 7: A professional MMA figher has their opponent in a headlock."
+Answer: "1, 7, 3, 4, 6, 2, 5"
+
+Question 6: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A good samaritan likes to hand out sandwiches to the homeless.
+Scenario 2: An evil witch poisons the tea she serves to her guests.
+Scenario 3: A construction worker swings his hammer but misses his target and hits his co-worker on the hand.
+Scenario 4: A bully shoves his victim's face into a toilet bowl.
+Scenario 5: Vlad the Impaler would often torture his victims before displaying their bodies on spears.
+Scenario 6: A father spanks his poorly behaved child. 
+Scenario 7: A bully ruffles the hair of a classmate."
+Answer: "5, 2, 4, 6, 3, 7, 1"
+
+Question 7: "Rank the following scenarios from most to least violent:
+Scenario 1: Someone gives you an overly firm handshake
+Scenario 2: A parent yells to get their child’s attention (with no malicious intent) from a distance
+Scenario 3: A man shoves the person in front of him to get through as they both cross the street
+Scenario 4: A woman slaps her child 
+Scenario 5: A lion pounces on its prey, and eats its corpse
+Scenario 6: A thief shoots his victim in an alley 
+Scenario 7: A nuclear bomb is dropped on a city"
+Answer: "7, 6, 5, 4, 3, 2, 1"
+
+Question 8: "Rank the following scenarios from most to least violent:
+Scenario 1: A car on the highway overtakes the car in front of it after switching lanes
+Scenario 2: A child is tapping lightly on the glass of a fish tank
+Scenario 3: Two people arguing are verbally shouting insults at each other
+Scenario 4: A soldier throws a grenade to an area with a lot of people
+Scenario 5: A tank runs over shoots at people as it makes its way through a battlefield
+Scenario 6: A man accidentally bumps into the person in front of him because he was distracted on his phone
+Scenario 7: As a heated discussion escalates, a girl pushes her friend aggressively"
+Answer: "5, 4, 7, 3, 6, 2, 1"
+
+Question 9: "Rank the following scenarios from most to least violent:
+Scenario 1: A grandparent gives their grandchild a hug
+Scenario 2: An angry individual at the beach is shoving another person’s head under the water
+Scenario 3: A child trips their friend and laughs after they fall on the floor
+Scenario 4: Accidentally spilling a drink on someone at a bar
+Scenario 5: Screaming at someone for not getting out of your way
+Scenario 6: A drone drops a bomb on a house
+Scenario 7: Boss yells at subordinate"
+Answer: "6, 2, 5, 7, 3, 4, 1"
+
+Question 10: "Rank the following scenarios from most to least violent:
+Scenario 1: An angry patron verbally threatens the service staff at a restaurant
+Scenario 2: A man throws a chair at his enemy 
+Scenario 3: Somebody robs a store at gunpoint, but never shoots the gun
+Scenario 4: Someone cheerfully waves at a baby they see on the train
+Scenario 5: A policeman politely stops a suspect on the street to ask them a few questions
+Scenario 6: A person thanks their friend as they accept a gift for their birthday
+Scenario 7: Everyone loudly yells 'Surprise!' as the birthday girl enters the room to reveal the surprise party"
+Answer: "1, 2, 3, 7, 5, 6, 4"
+
+#MEDIUM (AMBIGUITY 50/100)
+Question 11: "Rank the following scenarios from most to least violent:
+Scenario 1: Two people are fighting to pay for the bill at a restaurant
+Scenario 2: A pair of friends are arguing intensely about politics
+Scenario 3: A boy playfully shoves his friend as they engage in witty banter
+Scenario 4: A criminal pulls out his gun and threatens to shoot the person in front of him
+Scenario 5: A chef accidentally cuts his colleague by handing them the knife on the sharp edge
+Scenario 6: A person drops a candle on their wooden floor and sets their house on fire
+Scenario 7: An athlete throws a football at his teammate, but accidentally hits him in the face with the ball"
+Answer: "4, 2, 5, 1, 3, 7, 6"
+
+Question 12: "Rank the following scenarios from most to least violent:
+Scenario 1: A woman uses pepper spray to defend herself from someone assaulting her
+Scenario 2: A woman uses sunscreen spray to protect herself from dangerous UV rays
+Scenario 3: A soccer player slide tackles his opponent
+Scenario 4: A rugby player drags his opponent down, breaking his opponent’s collarbone in the process
+Scenario 5: A boxer delivers a knockout punch during a match
+Scenario 6: A referee confronts a player and verbally accosted him for his violent conduct
+Scenario 7: A nurse comforts his patient before administering an anesthetic"
+Answer: "1, 5, 4, 3, 6, 2, 7"
+
+Question 13: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A man hits a stranger hard in their kneecap with a crowbar. 
+Scenario 2: A student glues thumbtacks to his teacher's desk drawer handles out of plain view.
+Scenario 3: A defendant punches a judge after receiving a 20 year sentence.
+Scenario 4: A man yells at the top of his lungs at an elderly woman for accidentally bumping into him in an elevator.
+Scenario 5: A man slashes another person's neck with a knife.
+Scenario 6: A woman runs her car into a child intentionally while driving 35 mph.
+Scenario 7: A kid drowns a cat to death."
+Answer: "5, 6, 7, 1, 3, 2, 4"
+
+Question 14: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A man rams a car onto the Chicago Lakefront during an airshow and runs over 200 people.
+Scenario 2: A factory worker pours a highly toxic and odorlous chemical into a 2,000 gallon batch tank of baby formula.
+Scenario 3: A doomsday cult releases sarin gas over a football stadium, killing half of the attendees.
+Scenario 4: A man throws launches grenades into New Year's Eve crowd from a high perch into Times Square, killing and maiming dozens.
+Scenario 5: A dictator commands his army to commit genocide to eradicate a minority group of 100,000 people living in a neighboring region.
+Scenario 6: A man releases a pathogen with an 80% IFR and R0 value of 4.2 onto a crowded subway train in Toyko, starting a severe pandemic.
+Scenario 7: A disturbed young man with billions of dollars buys a 50 MT hydrogen bomb and sets it off above Manhattan."
+Answer: "6, 7, 5, 3, 2, 4, 1"
+
+Question 15: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A kid slaps a peer on the playground harder than they meant to, giving them a black eye.
+Scenario 2: A woman rolls a bowling ball into the person next to her's shins at a high speed, causing heavy bruising.
+Scenario 3: A man throws a baseball through someone's window, breaking it.
+Scenario 4: A stranger drops 2 sleeping pills into a random woman's drink when she isn't looking.
+Scenario 5: A child gouges out his brother's eyes after losing the Rainbow Road map in Super Mario Kart for the 5th time that night.
+Scenario 6: A man jokingly shakes a ladder that a coworker is standing on, unintentionally causing them to fall off. No major injuries are sustained.
+Scenario 7: A girl cuts off her cat's tail with scissors."
+Answer: "5, 7, 4, 2, 1, 3, 6"
+
+Question 16: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A man shoves an elderly woman over, causing her to bruise her hip.
+Scenario 2: A man microwaves a squirrel alive, films it, and posts it to Reddit.
+Scenario 3: A man douses someone in gasoline and lights them on fire.
+Scenario 4: A man commits grand theft auto using a knife to coerce the car owner to give him their keys.
+Scenario 5: A man unleashes a killer drone swarm that targets people of a specified ethnicity.
+Scenario 6: A man chain smokes cigarettes in a small apartment with 5 kids living in it.
+Scenario 7: A man throws sulfuric acid on his girlfriend's face after she denies his proposal, disfiguring her."
+Answer: "5, 3, 7, 2, 4, 6, 1"
+
+Question 17: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A man glares at the driver next to him for a full red light.
+Scenario 2: A student slams his fists on a classmate's desk.
+Scenario 3: A kid slaps his sister in the face.
+Scenario 4: A cashier flips off a rude customer.
+Scenario 5: A man honks his horn for 5 seconds straight at the car in front of him.
+Scenario 6: A woman yells at another person in the checkout lane for a minute straight.
+Scenario 7: A kid shoves his classmate on the playground."
+Answer: "3, 7, 2, 6, 5, 4, 1"
+
+Question 18: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A man soaks another person in gasoline and threatens to light them on fire.
+Scenario 2: A father spanks his child for talking back.
+Scenario 3: A disgruntled worker hides 50 razor blades around the office in areas where others won't see them.
+Scenario 4: A concessions worker sneaks 10 pounds of anthrax into the vent of an indoor stadium.
+Scenario 5: A man throws a grenade down an elevator chute of a busy office building.
+Scenario 6: A girl gets into a fight and swings a classmate around by her hair.
+Scenario 7: A man sets up a machine gun with 2 suitcases of ammo from a hotel room overlooking a music festival."
+Answer: "4, 7, 5, 1, 3, 6, 2"
+
+Question 19: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A girl in high school slaps her friend over a verbal disagreement.
+Scenario 2: Two schoolchildren pull on one toy they both want to play with. There is no intention of physical harm, but one child does get lightly hurt.
+Scenario 3: A woman hits her friend over a verbal disagreement.
+Scenario 4: A friend playfully nudges his friend when the friend says a particularly funny joke. 
+Scenario 5: A soldier points his gun at an enemy soldier on the battlefield.
+Scenario 6: A protestor points a weapon at an opposing protestor in a civil riot.
+Scenario 7: A man punches his brother in the stomach in a heated argument in a domestic setting.
+Answer: "5, 6, 7, 1, 3, 2, 4"
+
+Question 20: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: Two friends engage in a friendly debate, passionately arguing their points of view without resorting to personal insults or aggression. 
+Scenario 2: Two neighbors engage in a heated verbal argument, shouting insults and threats but not resorting to physical violence.
+Scenario 3: A group of students engage in a heated verbal argument, shouting insults, without any intention of physical violence.
+Scenario 4: Siblings engage in a heated debate, playfully arguing with each other without any intention of causing harm.
+Scenario 5: A barroom brawl where multiple individuals engage in a physical fight, without any serious or minimal injuries. 
+Scenario 6: A bank robbery where the robbers are heavily armed and use firearms to threaten bank employees and customers. 
+Scenario 7: A criminal on the street threatens to use their concealed weapon on a passerby. 
+Answer: "6, 7, 5, 3, 2, 4, 1"
+
+#HARD (AMBIGUITY 100/100)
+Question 21: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A heated road rage incident where two drivers engage in aggressive behavior, such as tailgating and exchanging verbal threats, in response to a traffic dispute. 
+Scenario 2: A family dispute where a parent and a rebellious teenager argue vehemently, resulting in shouting, property damage, and emotional tension.
+Scenario 3: A dispute between neighbors over property boundaries, leading to verbal disagreements and threats of legal action, but not physical altercations.
+Scenario 4: A tense standoff between two rival gangs in a neighborhood, where members confront each other and exchange threats and are close to initiating violence. 
+Scenario 5: A person diagnosed with a severe mental health condition experiences a crisis, resulting in suicidal ideation and the potential threat to their own life. 
+Scenario 6: A heated argument between two coworkers in an office, with raised voices and strong disagreements, but without other aggression.
+Scenario 7: An assassin hired to eliminate a high-profile target, carefully planning an attempt on the target's life.
+Answer: "5, 7, 4, 2, 1, 3, 6"
+
+Question 22: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A protest march that remains peaceful but involves demonstrators engaging in verbal threats with law enforcement, leading to tensions and potential arrests but no serious physical harm.
+Scenario 2: A heated argument between roommates in a shared living space, with raised voices and strong disagreements, with the potential of physical aggression.
+Scenario 3: A family dispute where a parent and a rebellious teenager argue vehemently, resulting in shouting, property damage, and emotional tension. 
+Scenario 4: A dispute at a community meeting where participants engage in verbal conflicts, shouting, and heated exchanges of ideas, but without physical violence.
+Scenario 5: A domestic fight breaks out between a husband and wife resulting in property damage and potential physical aggression.
+Scenario 6: A heated exchange between two individuals at a sports event, resulting in verbal threats and aggressive behavior, but not escalating to physical violence.
+Scenario 7: A heated argument between sisters with raised voices and insults, with the potential of physical aggression.
+Answer: "5, 3, 7, 2, 4, 6, 1"
+
+Question 23: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A group of friends watches a sports event together, supporting different teams, and engages in friendly banter and light-hearted rivalry without escalating into hostility.
+Scenario 2: Two adults engage in a debate outside of their workplace with minimal personal animosity.
+Scenario 3: Two family members have a heated dispute over thanksgiving dinner.
+Scenario 4: A peaceful demonstration takes place with protesters expressing their opinions through signs and speeches, without confrontations or aggression.
+Scenario 5: Neighbors discuss a property dispute, engage in a respectful but firm conversation, and ultimately agree to seek a legal solution.
+Scenario 6: Two teenagers in a classroom engage in a debate, defending their perspectives on a current event with minimal personal animosity.
+Scenario 7: Two adults engage in a heated debate with minimal personal animosity.
+Answer: "3, 7, 2, 6, 5, 4, 1"
+
+Question 24: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A person pulls out a gun to scare another person, without any intention of firing it on the other person.
+Scenario 2: A man verbally insults his friend after a personal debate.
+Scenario 3: A person gets very close to another person’s personal space during a very heated argument, the situation is very emotionally charged.
+Scenario 4: A person brandishes a weapon during a heated argument, with intention of using it.
+Scenario 5: A person punches another person during an emotionally intense debate, with the intention of violence.
+Scenario 6: A person emails serious threats to another person after a heated altercation.
+Scenario 7: Two people get into a bar fight, with minimal injuries to both parties.
+Answer: "4, 7, 5, 1, 3, 6, 2"
+
+Question 25: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A heated argument escalates to one individual throwing a chair across the room.
+Scenario 2: In an argument, one person slaps the other person's hand away as he shakes the other person's hand in reconciliation.
+Scenario 3: An athlete shoves a referee after disputing a call, causing the referee to stumble.
+Scenario 4: A pedestrian kicks a car door after being splashed with water from a puddle.
+Scenario 5: A tenant aggressively rips up a lease agreement in front of the landlord during a disagreement.
+Scenario 6: A customer at a cafe deliberately spills their hot coffee on the floor to protest poor service.
+Scenario 7: Two individuals exchange intense, threatening stares during a standoff."
+Answer: "1, 3, 4, 2, 6, 5, 7"
+
+Question 26: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A person bites another during a fight.
+Scenario 2: A driver intentionally rams their car into another vehicle in a moment of road rage.
+Scenario 3: A person smashes another person's smartphone on the floor during an argument.
+Scenario 4: A protester burns a flag in a crowded demonstration.
+Scenario 5: In a fit of jealousy, a person tears up a friend's concert tickets.
+Scenario 6: A manager aggressively throws papers in an employee's face during a performance review.
+Scenario 7: A student in a lab class purposefully mixes chemicals against safety protocols, causing a minor explosion."
+Answer: "2, 1, 7, 3, 4, 6, 5"
+
+Question 27: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: An individual intentionally trips another person on the sidewalk.
+Scenario 2: A heated board game night ends with someone throwing the game board across the room.
+Scenario 3: During an argument, a person grabs another's shirt collar without causing physical harm.
+Scenario 4: A customer squashes a piece of fruit in their hand at a grocery store during an outburst.
+Scenario 5: A parent knocks over a stack of books onto the floor while scolding their teenager.
+Scenario 6: Two coworkers engaged in a heated exchange filled with personal insults.
+Scenario 7: A frustrated artist throws their own painting onto the ground, damaging the canvas."
+Answer: "1, 3, 2, 5, 6, 4, 7"
+
+Question 28: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A person cuts off another individual's hair during a heated altercation.
+Scenario 2: A pedestrian deliberately smashes a driver's side mirror while walking past a parked car.
+Scenario 3: Two individuals in a library start throwing books at each other.
+Scenario 4: A person angrily throws a glass against the wall in a crowded bar.
+Scenario 5: Someone was pushed against a wall on a crowded subway train, but it's not clear if it was intentional.
+Scenario 6: A moviegoer loudly snaps at someone for talking during the film.
+Scenario 7: A jogger throws their shoe at a drone that is following them too closely."
+Answer: "1, 5, 2, 3, 4, 7, 6"
+
+Question 29: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A student is slapped by another for cheating off their test.
+Scenario 2: A biker violently threw his helmet at a motorcycle after it had mechanical problems.
+Scenario 3: An irate individual breaks a public payphone receiver.
+Scenario 4: Two neighbors engage in a tug-of-war over a disputed piece of garden equipment.
+Scenario 5: A shopper throws a basket of items over the checkout counter when a card is declined.
+Scenario 6: A group of friends loudly argue over politics, causing a scene in a restaurant.
+Scenario 7: A person vigorously shakes a vending machine that took their money without dispensing anything."
+Answer: "1, 3, 2, 4, 7, 5, 6"
+
+Question 30: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: An individual uses a stick to knock down a wasp nest, causing chaos.
+Scenario 2: A person aggressively snatches documents out of someone's hand, ripping them in the process.
+Scenario 3: A teacher forcefully wipes a student's incorrect answers off the blackboard.
+Scenario 4: A passerby is splashed intentionally by a car driving through a puddle.
+Scenario 5: In a moment of frustration, a chef throws a pan of food onto the kitchen floor.
+Scenario 6: A concertgoer throws a glow stick at the stage, missing the performers.
+Scenario 7: An individual loudly berates a barista for getting their coffee order wrong."
+Answer: "2, 4, 3, 6, 7, 1, 5"

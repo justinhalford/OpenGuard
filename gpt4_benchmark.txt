@@ -1,0 +1,304 @@
+#EASY (AMBIGUITY 0/100)
+Question 1: "Rank the following scenarios from most to least dangerous in terms of violent intensity.
+Scenario 1: A man is holding a loaded gun, pointing it at another person's head.
+Scenario 2: Two individuals are having a heated verbal argument in a parking lot.
+Scenario 3: A woman slaps her friend during a disagreement.
+Scenario 4: A group of teens are throwing stones at a passerby.
+Scenario 5: Two boxers are sparring in a controlled environment with safety equipment.
+Scenario 6: A child is tugging on another child's shirt during a game.
+Scenario 7: An individual shoves someone else into a wall during a bar fight."
+Answer: "1, 7, 4, 3, 2, 5, 6"
+
+Question 2: "Consider the intensity of violence in each scenario and rank them from most severe to least severe.
+Scenario 1: A mob is violently attacking a store owner.
+Scenario 2: A teenager pushes his younger sibling off the couch.
+Scenario 3: Two coworkers exchange threats but no physical contact is made.
+Scenario 4: A gang engages in a street brawl using bats and knives.
+Scenario 5: An individual brandishes a knife during a dispute but does not use it.
+Scenario 6: Friends lightly wrestle on the beach for fun.
+Scenario 7: A person throws a drink at another during a heated discussion."
+Answer: "4, 1, 5, 7, 3, 2, 6"
+
+Question 3: "Please arrange these situations based on the potential for harm, from highest to lowest.
+Scenario 1: A person tries to choke another during a heated moment.
+Scenario 2: Siblings poke each other while teasing.
+Scenario 3: A group of people surround and verbally abuse an individual, but do not touch them.
+Scenario 4: An adult shakes a toddler aggressively.
+Scenario 5: Two elderly neighbors have a shouting match across their fences.
+Scenario 6: Friends playfully slap each other on the back.
+Scenario 7: A couple has a loud argument with occasional pushing and shoving."
+Answer: "1, 4, 7, 3, 5, 6, 2"
+
+Question 4: "Determine the gravity of violence in these scenarios, listing them from the most dangerous to the least.
+Scenario 1: Someone is threatening to set another person's house on fire.
+Scenario 2: A mother spanks her child for misbehaving.
+Scenario 3: Two men get into a fistfight after a disagreement at a football game.
+Scenario 4: A boy pulls a girl's hair at school.
+Scenario 5: Two friends get into a pillow fight at a sleepover.
+Scenario 6: An angry customer yells at a cashier but keeps a physical distance.
+Scenario 7: A man aggressively waves his walking stick but doesn't strike anyone."
+Answer: "1, 3, 2, 4, 7, 6, 5"
+
+Question 5: "Assess the potential harm of each scenario and order them from most perilous to least perilous.
+Scenario 1: A group breaks into a home and physically assaults the inhabitants.
+Scenario 2: A student throws a paper plane at the teacher.
+Scenario 3: Two motorists confront each other after a minor accident but only exchange words.
+Scenario 4: An individual punches a wall in anger next to someone's head.
+Scenario 5: Kids throw water balloons at each other in the park.
+Scenario 6: A man throws a book across the room during an argument, not aimed at anyone.
+Scenario 7: A dog owner pulls his dog's leash hard to control him."
+Answer: "1, 4, 7, 3, 6, 2, 5"
+
+Question 6: "Rank the following scenarios based on their violent intensity from most dangerous to least dangerous.
+Scenario 1: Two individuals engaged in a shouting match in a park.
+Scenario 2: A man swinging a baseball bat at another in a dark alley.
+Scenario 3: A woman slapping her friend for a rude comment.
+Scenario 4: Two people wrestling on the ground.
+Scenario 5: An individual threatening another with a knife.
+Scenario 6: A teenager shoving his peer into a locker.
+Scenario 7: A group of people throwing stones at a single person."
+Answer: "5, 2, 7, 4, 6, 3, 1"
+
+Question 7: "Evaluate the violent intensity of the scenarios listed below and rank them from most to least dangerous.
+Scenario 1: Two coworkers having a heated verbal argument in an office.
+Scenario 2: A man holding someone hostage at gunpoint.
+Scenario 3: A woman throwing a glass of water at her husband during an argument.
+Scenario 4: An individual chasing another with a chainsaw.
+Scenario 5: Two friends arm wrestling at a bar.
+Scenario 6: A person slapping another for cutting in line.
+Scenario 7: A group trying to forcefully enter someone’s house."
+Answer: "4, 2, 7, 6, 3, 1, 5"
+
+Question 8: "Determine the danger levels in the following situations, ranking them from the most violent to the least violent.
+Scenario 1: A child throwing a tantrum and hitting his sibling with a soft toy.
+Scenario 2: Two men engaging in a boxing match with proper gear.
+Scenario 3: A person setting another's car on fire.
+Scenario 4: An old man shaking his fist at a neighbor's loud music.
+Scenario 5: A gang assaulting a lone individual in a subway station.
+Scenario 6: A mother gently scolding her daughter.
+Scenario 7: A thief threatening a shopkeeper with a crowbar."
+Answer: "5, 3, 7, 2, 4, 1, 6"
+
+Question 9: "Assess the following situations based on their intensity of violence, ranking from the highest to lowest.
+Scenario 1: Two teenagers in a schoolyard having a tug-of-war with a backpack.
+Scenario 2: A bouncer forcibly removing an unruly patron from a club.
+Scenario 3: An individual throwing molotov cocktails at a building with people inside.
+Scenario 4: A couple having a quiet argument in their car.
+Scenario 5: A person throwing punches at a bystander without provocation.
+Scenario 6: A driver honking aggressively at a pedestrian.
+Scenario 7: A mob attacking an individual with sticks and rods."
+Answer: "3, 7, 5, 2, 1, 4, 6"
+
+Question 10: "Analyze the situations below for their potential harm and arrange them from most to least dangerous.
+Scenario 1: A child pushing another child in a playground.
+Scenario 2: A person shooting at another from a distance.
+Scenario 3: Two friends having a pillow fight.
+Scenario 4: A stalker breaking into someone's home while they are away.
+Scenario 5: An individual holding another person's wrist tightly during a dispute.
+Scenario 6: A group of protesters pushing against police barriers.
+Scenario 7: A manager yelling at an employee in front of the team."
+Answer: "2, 4, 6, 5, 7, 1, 3"
+
+
+#MEDIUM (AMBIGUITY 50/100)
+Question 11: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: Two men are having a heated argument in a public park.
+Scenario 2: A group of teenagers throw eggs at a passerby.
+Scenario 3: Someone raises their hand to slap another but stops midway.
+Scenario 4: A lady pushes a man into a swimming pool.
+Scenario 5: A person threatening another with a broken glass bottle.
+Scenario 6: A gang gets involved in a bar fight using chairs.
+Scenario 7: A couple shouting loudly at each other in a crowded subway."
+Answer: "6, 5, 4, 2, 3, 1, 7"
+
+Question 12: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: An individual tries to choke another person during an altercation.
+Scenario 2: A group of protesters push against a barricade.
+Scenario 3: Someone throws a pie at a celebrity during a show.
+Scenario 4: A heated confrontation leads to one person spitting at another.
+Scenario 5: Two drivers engage in a shouting match after a minor car accident.
+Scenario 6: An angry fan throws popcorn at a sports player.
+Scenario 7: A man punches a wall next to someone's head."
+Answer: "1, 2, 4, 3, 5, 7, 6"
+
+Question 13: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A person pulls another by their hair.
+Scenario 2: A kid kicks a soccer ball aggressively towards another kid.
+Scenario 3: Two friends engage in a playful wrestling match.
+Scenario 4: An individual slaps someone else without warning.
+Scenario 5: People are seen shouting and shaking their fists during a town hall meeting.
+Scenario 6: Someone throws a drink at another in a club.
+Scenario 7: A person waves their finger threateningly at another."
+Answer: "4, 1, 6, 2, 5, 3, 7"
+
+Question 14: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A woman pushes a man off a sidewalk.
+Scenario 2: Two people exchange blows during a heated moment.
+Scenario 3: A bystander throws a stone at a procession.
+Scenario 4: Someone aggressively yanks a bag from someone's hand.
+Scenario 5: A group yells obscenities at a street performer.
+Scenario 6: A person deliberately steps on another's foot.
+Scenario 7: Two people engage in an aggressive tug of war over an item."
+Answer: "2, 3, 4, 1, 6, 5, 7"
+
+Question 15: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A person suddenly throws a book at another.
+Scenario 2: A man breaks a glass in anger while arguing with someone.
+Scenario 3: Two individuals engage in an arm-wrestling match with a lot of grunting.
+Scenario 4: Someone in a mask approaches another with a baseball bat.
+Scenario 5: A group surrounds someone, shouting and pointing fingers.
+Scenario 6: A person makes a throat-slitting gesture to another.
+Scenario 7: Two siblings playfully slap each other."
+Answer: "4, 1, 5, 2, 6, 3, 7"
+
+Question 16: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: Two individuals are verbally arguing in a public place.
+Scenario 2: A person is being held at knifepoint.
+Scenario 3: A man pushes a woman into a wall but immediately regrets it.
+Scenario 4: A group of people are shouting at one person.
+Scenario 5: A person slaps another across the face.
+Scenario 6: Two individuals are throwing punches at each other.
+Scenario 7: A person is chasing another with a baseball bat but hasn't struck them."
+Answer: "2, 7, 6, 5, 4, 3, 1"
+
+Question 17: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A woman is yelling at a man from a distance.
+Scenario 2: A person is tightly holding someone's wrist causing it to bruise.
+Scenario 3: An individual is threatening someone with a broken bottle but hasn't attacked.
+Scenario 4: Two people are involved in a tug of war over a bag.
+Scenario 5: An angry individual breaks a glass table with their hand.
+Scenario 6: A person is stalking another, consistently following them.
+Scenario 7: A group is cornering one individual, preventing them from leaving."
+Answer: "3, 7, 2, 6, 5, 4, 1"
+
+Question 18: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: Two kids are wrestling on the ground playfully.
+Scenario 2: A person is shaking another person forcefully.
+Scenario 3: An individual is holding another in a headlock, threatening them.
+Scenario 4: A man is pointing a finger aggressively at a woman's face.
+Scenario 5: Someone is throwing stones at a crowd.
+Scenario 6: A woman is crying after being verbally abused.
+Scenario 7: An individual is punching a wall next to someone's head without touching them."
+Answer: "5, 3, 2, 7, 4, 6, 1"
+
+Question 19: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: A person is waving a chain but hasn't hit anyone.
+Scenario 2: Two individuals are in a heated argument, with one poking the other's chest.
+Scenario 3: A man forcibly grabs a woman's arm, pulling her towards him.
+Scenario 4: Someone is making a verbal threat over the phone.
+Scenario 5: An individual is pointing a gun at another but hasn't shot.
+Scenario 6: A child is hitting another child with a toy.
+Scenario 7: A person is breaking another's personal items in a rage."
+Answer: "5, 1, 3, 7, 2, 6, 4"
+
+Question 20: "Rank the following scenarios from most to least violent intensity.
+Scenario 1: An individual is holding a brick but isn't using it.
+Scenario 2: Two people are in a physical altercation, rolling on the ground.
+Scenario 3: Someone is shoving another person repeatedly.
+Scenario 4: A group is verbally berating an individual, mocking their every move.
+Scenario 5: A man is holding a woman's face forcefully, yelling at her.
+Scenario 6: Someone is cutting another's clothes without their permission.
+Scenario 7: An individual is attempting to drown another in a pool."
+Answer: "7, 5, 2, 3, 1, 4, 6"
+
+
+#HARD (AMBIGUITY 100/100)
+Question 21: "Rank the following scenarios from most to least dangerous based on the violent intensity depicted. 
+Scenario 1: Two people having a heated argument with raised voices. 
+Scenario 2: A person pushing another onto a couch. 
+Scenario 3: An individual raising a fist but not striking. 
+Scenario 4: A verbal disagreement with both parties maintaining distance. 
+Scenario 5: Two people wrestling on the ground. 
+Scenario 6: One person slapping another without leaving a mark. 
+Scenario 7: An individual threatening another with clenched teeth."
+Answer: "5,2,6,3,1,7,4"
+
+Question 22: "Based on the violent intensity displayed, arrange the given scenarios from the most to the least dangerous. 
+Scenario 1: An individual shouting at another from across the room. 
+Scenario 2: Two people jostling each other in a line. 
+Scenario 3: One person pointing a finger accusatorily at another. 
+Scenario 4: A person cornering another against a wall without physical contact. 
+Scenario 5: A quiet but intense stare-down between two people. 
+Scenario 6: One person gripping another's arm tightly. 
+Scenario 7: An individual stepping on another's foot unintentionally."
+Answer: "4,6,2,1,5,3,7"
+
+Question 23: "Arrange these scenarios in order from the most dangerous due to violent intensity to the least. 
+Scenario 1: Two individuals exchanging words with noticeable tension. 
+Scenario 2: One person lightly shoving another in a crowded area. 
+Scenario 3: A person making a cutting hand gesture towards another. 
+Scenario 4: An individual yelling at another who is walking away. 
+Scenario 5: Two people with interlocked fingers in a test of strength. 
+Scenario 6: One person breathing heavily while glaring at another. 
+Scenario 7: A swift poke in the chest by one person to another."
+Answer: "4,2,5,1,6,3,7"
+
+Question 24: "Given the violent intensity in each scenario, rank them from the highest threat level to the lowest. 
+Scenario 1: One person quickly turning away from another in frustration. 
+Scenario 2: A person placing their hands on another's shoulders and shaking them. 
+Scenario 3: Two people standing nose to nose with elevated voices. 
+Scenario 4: An individual snapping their fingers in another's face. 
+Scenario 5: A person whispering threats into another's ear. 
+Scenario 6: Two people bumping chests aggressively. 
+Scenario 7: One person mimicking a punch but stopping short."
+Answer: "5,6,3,2,7,4,1"
+
+Question 25: "Consider the following scenarios and rank them in order of perceived violent intensity, from the most intense to the least. 
+Scenario 1: An individual stomping their foot to emphasize a point during an argument. 
+Scenario 2: Two people engaging in a heated debate with personal insults. 
+Scenario 3: One person raising and waving their hand dismissively at another. 
+Scenario 4: A person holding another's wrist firmly. 
+Scenario 5: An intense face-to-face confrontation without words. 
+Scenario 6: One person brushing another off with a light shoulder nudge. 
+Scenario 7: Two individuals having a passive-aggressive exchange."
+Answer: "5,2,4,1,3,6,7"
+
+Question 26: "Rank the following scenarios from most to least dangerous based on the intensity of interpersonal violence depicted. 
+Scenario 1: Two individuals shouting insults at each other. 
+Scenario 2: A person slaps someone else on the face. 
+Scenario 3: A man throws a glass of water at a woman. 
+Scenario 4: A group of people blocking someone's way aggressively. 
+Scenario 5: An individual raising their fist in a threatening manner. 
+Scenario 6: Two people pushing each other. 
+Scenario 7: Someone making a silent gesture as if to slit someone's throat."
+Answer: "3,6,2,1,4,5,7"
+
+Question 27: "Analyze the level of danger in the scenarios described below and rank them from the most dangerous to the least dangerous. 
+Scenario 1: An individual points his finger at someone's face, shouting loudly. 
+Scenario 2: Two friends playfully punch each other on the shoulder. 
+Scenario 3: Someone throws a non-threatening object in jest. 
+Scenario 4: A person grabs another by the collar aggressively. 
+Scenario 5: Two individuals having a heated argument with fingers pointed. 
+Scenario 6: A group mimicking the act of punching someone, but not actually making contact. 
+Scenario 7: An individual clenching their fists but maintaining distance."
+Answer: "4,1,5,3,2,7,6"
+
+Question 28: "Among the following interpersonal scenarios, determine the order of violent intensity, starting with the most intense. 
+Scenario 1: Two people engage in a verbal argument over a misunderstanding. 
+Scenario 2: A person makes a mock kick towards someone without making contact. 
+Scenario 3: Someone raises their hand as if to hit but stops mid-air. 
+Scenario 4: Two individuals shake hands firmly, their faces showing subtle aggression. 
+Scenario 5: An individual throws an empty plastic bottle towards another in jest. 
+Scenario 6: A group of people gesture threateningly without physical contact. 
+Scenario 7: Someone verbally threatens to retaliate at an unspecified future time."
+Answer: "3,7,2,1,6,5,4"
+
+Question 29: "Evaluate the scenes described below in terms of their violent intensity. List them from the highest to lowest threat level. 
+Scenario 1: Two individuals engage in a staring contest with intense anger. 
+Scenario 2: Someone pretends to lunge at another but stops with a laugh. 
+Scenario 3: A person suddenly raises their voice, startling everyone around. 
+Scenario 4: An individual gestures as if pulling something from their pocket but doesn't. 
+Scenario 5: Two people talking animatedly with their hands flying around but not touching each other. 
+Scenario 6: A group acting out a choreographed fight scene without contact. 
+Scenario 7: Someone whispering a veiled threat."
+Answer: "7,1,4,3,2,5,6"
+
+Question 30: "Of the interpersonal confrontations mentioned below, rank them according to their potential threat level, from most threatening to least. 
+Scenario 1: Two people having a silent standoff, with clear tension in the air. 
+Scenario 2: A person suddenly stands up, their chair toppling over. 
+Scenario 3: Someone loudly claims they "almost did something they'd regret". 
+Scenario 4: Two people walk away from each other, clearly upset but silent. 
+Scenario 5: An individual points aggressively towards the door, signalling for someone to leave. 
+Scenario 6: A group acts as if drawing imaginary weapons from their holsters. 
+Scenario 7: Someone claps their hands loudly to draw attention."
+Answer: "3,1,5,2,6,4,7"
